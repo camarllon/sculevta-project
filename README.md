@@ -1,4 +1,4 @@
-sculevta-project
-================
+# Sculevta (Suco Levanta) 1.0
+===
 
-Sculevta is a educational malware example for study.
+A study malware project.
